@@ -1,2 +1,4 @@
-.env
+Fructu.env
 .learn
+CLIENT_ID= "c0ff3772504a4a668d61d4b2a2424814"
+CLIENT_SECRET="4af0f81b54d44a92a962340b14fce4bb"
